@@ -1,0 +1,46 @@
+
+.bannner
+{
+     width: 100%;
+     background-color: lightgray;
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+}
+#pra
+{
+    background-color: red;
+    
+    position:relative;
+    height:50px;
+}
+li{
+    list-style-type: none;
+    color: rgba(40, 226, 15, 0.89);
+    margin-left: 5%;
+    float:left;
+   
+    display:inline;
+    
+}
+a{
+    text-decoration-line: none;
+    color: darkgreen;
+   
+
+}
+.pra1
+{
+     position: absolute;
+     top:22px;
+     right:16px;
+}
+.service
+{
+    width: 33%;
+    border: 2px solid black;
+    float:left;
+
+    text-align:center;
+
+}
